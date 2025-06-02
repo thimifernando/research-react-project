@@ -785,6 +785,10 @@ function App() {
         "leaf_prediction.jpg",
         "disease_recommendation.jpg",
         "saved_recommendations.jpg",
+        "1.jpeg",
+        "2.jpeg",	
+        "3.jpeg",
+        "4.jpeg",	
       ].map((filename, index) => (
         <div key={index} className="col-6 col-md-3 mb-4 text-center">
           <img
